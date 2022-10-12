@@ -1,0 +1,11 @@
+*
+!.gitignore
+!README.md
+!LICENSE
+!*.go
+!*.gohtml
+!*.css
+!go.mod
+!go.sum
+!ss1.png
+!ss2.png

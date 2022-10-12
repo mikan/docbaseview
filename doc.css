@@ -1,0 +1,13 @@
+table, th, td {
+    border-collapse: collapse;
+    border: 2px solid gray;
+}
+
+img {
+    max-width: 100%;
+}
+
+pre, code {
+    font-family: Monaco, Monospaced, monospace;
+    background-color: whitesmoke;
+}

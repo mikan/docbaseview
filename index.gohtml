@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Documents</title>
+</head>
+<body>
+<h1>Documents</h1>
+<ul>
+    {{range .Documents}}
+        <li><a href="{{.FileName}}">{{.FileName}}</a> {{.Title}}</li>
+    {{end}}
+</ul>
+</body>
+</html>
